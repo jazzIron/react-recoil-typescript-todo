@@ -1,0 +1,69 @@
+{
+  "status": 200,
+  "payload": [
+    {
+      "index": "0",
+      "cardId": "1",
+      "todoFilter": "0",
+      "todoList": [
+        {
+          "index": "0",
+          "todoId": "0",
+          "text": "내용1",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "index": "1",
+      "cardId": "2",
+      "todoFilter": "0",
+      "todoList": [
+        {
+          "index": "0",
+          "todoId": "0",
+          "text": "내용11",
+          "checked": false
+        },
+        {
+          "index": "1",
+          "todoId": "1",
+          "text": "내용22",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "index": "2",
+      "cardId": "3",
+      "todoFilter": "0",
+      "todoList": [
+        {
+          "index": "0",
+          "todoId": "0",
+          "text": "내용11111",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "index": "3",
+      "cardId": "4",
+      "todoFilter": "0",
+      "todoList": [
+        {
+          "index": "0",
+          "todoId": "0",
+          "text": "내용114333",
+          "checked": false
+        },
+        {
+          "index": "1",
+          "todoId": "1",
+          "text": "내용2222234",
+          "checked": true
+        }
+      ]
+    }
+  ]
+}
